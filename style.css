@@ -407,6 +407,8 @@ section h2 {
 .product-item--button:disabled {
    background: green;
    color: #fff;
+   transform: translateX(0);
+   visibility: visible;
 }
 
 .product-item--details {
